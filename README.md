@@ -52,9 +52,8 @@ Les vues sont les pages affichés dans notre application web, elles sont chacune
 
 Créez 5 vues (Razor View) dans un nouveau dossier « Todo » dans « Views » : 
 
-  - ListeTodo.cshtml, le modèle doit être IEnumerable<TodoViewModel>, son but sera de boucler dans l’énumérable et afficher un aperçu de l’ensemble des TodoViewModel. 
-
-  - La vue devra aussi contenir un lien déclenchant l’action « AjouterTodo » du controller « TodoController » et chaque aperçu de Todo devra avoir lien vers les détails (action « DetailsTodo » du même controller). 
+  - ListeTodo.cshtml, le modèle doit être IEnumerable\<TodoViewModel\>, son but sera de boucler dans l’énumérable et afficher un aperçu de l’ensemble des TodoViewModel. 
+La vue devra aussi contenir un lien déclenchant l’action « AjouterTodo » du controller « TodoController » et chaque aperçu de Todo devra avoir lien vers les détails (action « DetailsTodo » du même controller). 
 
   - AjouterTodo.cshtml, le modèle doit être TodoViewModel, son but sera d’ajouter des to-dos grâce à des formulaires. La vue devra avoir un lien de retour vers la liste de to-dos et afficher un message lorsque le formulaire n’est pas validé.  
 
