@@ -13,7 +13,7 @@ Pour Rider, quelques différences peuvent être présente car le sujet a été f
 
 Je recomande Visual Studio si vous souhaitez faire le workshop suivant.
 
-Pour Visual Studio, installé le workload "ASP.NET and web development" avec au moins ".NET 6.0 Runtime" dans les Composants individuels
+Pour Visual Studio, installez le workload "ASP.NET and web development" avec au moins ".NET 6.0 Runtime" dans les Composants individuels
 
 ## Exercice 1 : Créer un projet ASP.NET Core  
 
