@@ -7,10 +7,13 @@ Lorsque vous aurez besoin de chercher des informations, je vous invite à aller 
 Sauf si précision, les classes, interfaces, propriétés et méthodes doivent être publiques. 
 
 ## Prérequis
+Vous devriez avoir installé Visual Studio sur Windows ou Mac (et pas VS Code) ou installé Rider (de la suite JetBrains) 
 
-Normalement vous devriez avoir installé Visual Studio sur Windows ou Mac (et pas VS Code) ou installé Rider (de la suite JetBrains) 
+Pour Rider, quelques différences peuvent être présente car le sujet a été fait avec Visual Studio en tête.
 
-Pour Rider, quelques différences peuvent être présente car le sujet a été fait avec Visual Studio en tête. 
+Je recomande Visual Studio si vous souhaitez faire le workshop suivant.
+
+Pour Visual Studio, installé le workload "ASP.NET and web development" avec au moins ".NET 6.0 Runtime" dans les Composants individuels
 
 ## Exercice 1 : Créer un projet ASP.NET Core  
 
